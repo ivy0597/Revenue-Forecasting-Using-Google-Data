@@ -1,4 +1,13 @@
 # Revenue Forecasting Using Google Data
 
-##Contributors
+### Contributors:
+  +Ivy Tran
+  
+## Abstract
+
+#
+
+# Table of Contents
+
+
   
